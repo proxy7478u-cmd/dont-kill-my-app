@@ -1,3 +1,4 @@
+Radmi 13c
 ---
 manufacturer: 
     - xiaomi
